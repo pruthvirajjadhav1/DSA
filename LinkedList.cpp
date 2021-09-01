@@ -71,7 +71,7 @@ void display(node* head){
         cout<< temp->data <<"->";
         temp = temp ->next;
     }
-    cout << "NULL" <<endl;
+    cout <<"NULL" <<endl;
 }
 
 int main(){
